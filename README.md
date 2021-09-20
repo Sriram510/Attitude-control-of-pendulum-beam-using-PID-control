@@ -2,6 +2,13 @@
 
 # This repository contains the projects that I made to develop understanding of PID control for use in rocket attitude control.
 
+## Sensors and materials used:
+###### 1. MPU9250 to calculate tillt angle using quaternions.
+###### 2. ArduinoUNO microcontroller.
+###### 3. MG90 servo with 720 coreless DC motor attached to it's arm.
+###### 4. Rest apparatus are used to build frame and fasten things up.
+###### 5. Supports and power supply for convenient operation.
+
 ## Step 1.The system model was obtained using newton's laws of motion.
 ## Step 2.Angle of servo arm is used as the control actuator with attached DC motor for thrust.
 ## Step 3.The system(plant) was made as shown in the video below with proper connections and the beam was pivoted around the centre of gravity.
