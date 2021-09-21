@@ -36,7 +36,7 @@
 
 https://user-images.githubusercontent.com/90887611/133923463-083fb2d6-455f-45d7-b34f-ac2ca555e0f9.mp4
 
-***Application :: This same principle can applied to maintain or control the rocket's attitude(roll,pitch,yaw) in flight actively as oppposed to passive fins which increases drag and hence reduce payload capacity.As the variables(mass of rocket and the moment of inertia) are constantly changing response characteristics of the system will change(though minor).To compensate for this gain scheduling control(PID gains for different states) can be opted.***
+***Application :: By using the second PID TVC sketch, this same principle can be applied to maintain or control the rocket's attitude(roll,pitch,yaw) in flight actively as oppposed to passive fins which increases drag and hence reduce payload capacity.As the variables(mass of rocket and the moment of inertia) are constantly changing response characteristics of the system will change(though minor).To compensate for this gain scheduling control(PID gains for different states) can be opted.***
 
 
 
