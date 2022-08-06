@@ -25,7 +25,7 @@
 ## Step 2.Angle of servo arm is used as the control actuator with attached DC motor for thrust.
 ## Step 3.The system(plant) was made as shown in the video below with proper connections and the beam was pivoted around the centre of gravity.
 ## Step 4.Control algorithm was made using simple PID controller in C++ using arduinoUNO microcontroller.
-## Step 5. Proper tuning of PID gains was performed iteratively to match desired respose from the system.
+## Step 5. Proper tuning of PID gains was performed iteratively to match desired response from the system.
 ## Step 6. Disturbing the tilt angle stimulates the controller to stabilize the angle(in this case 30degrees of the vertical was chosen) of the beam to desired state.
 ***NOTE : Due to imperfections in system design(friction as nonlinearity,power fluctuations) it oscillates upon staying in desired setpoint.***
 
